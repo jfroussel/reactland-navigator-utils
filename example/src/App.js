@@ -7,10 +7,7 @@ export default class App extends Component {
     return (
       <div>
         <div>
-          <ExampleComponent text='Modern React component module' />
-        </div>
-        <div>
-          <ExampleComponent2 text='Modern React component2 module' />
+          <ExampleComponent text='jeff' />
         </div>
       </div>
     )
